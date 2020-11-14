@@ -2,7 +2,7 @@
 
 #  README for SatoshiSecretMessage.py
 
-Satoshi Nakamoto secret phrase is hidden in a field in the only transaction
+Satoshi Nakamoto`s secret phrase is hidden in a field in the only transaction
 in the Genesis	block. This script gets the relevant field and shows it in 
 a readable form.
 
