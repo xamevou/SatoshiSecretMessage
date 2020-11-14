@@ -10,7 +10,7 @@ Instructions: This script works when run in the same host running
 bitcoin core. Just change the variables rpcuser and rpcpassword with 
 your values in bitcoin.conf. 
 
-NOTE: In Antonopoulo's book he uses RawProxy() instead 
-of AuthServiceProxy(). That is quicker and does not need
-a password but it doesn't work now for some reason.
-AuthServiceProxy provides an alternative.
+NOTE: In Antonopoulo's book, for several exercises, he uses 
+RawProxy() instead of AuthServiceProxy(). That is quicker and does 
+not need a password but it doesn't work now for some reason.
+AuthServiceProxy(), then, provides an alternative.
