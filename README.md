@@ -14,3 +14,6 @@ NOTE: In Antonopoulo's book, for several exercises, he uses
 RawProxy() instead of AuthServiceProxy(). That is quicker and does 
 not need a password but it doesn't work now for some reason.
 AuthServiceProxy(), then, provides an alternative.
+
+I have added this to mybinder. Click banner here.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xamevou/SatoshiSecretMessage/HEAD)
