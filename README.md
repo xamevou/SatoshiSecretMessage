@@ -1,5 +1,3 @@
-
-
 #  README for SatoshiSecretMessage.py
 
 Satoshi Nakamoto`s secret phrase is hidden in a field in the only transaction
@@ -15,6 +13,5 @@ RawProxy() instead of AuthServiceProxy(). That is quicker and does
 not need a password but it doesn't work now for some reason.
 AuthServiceProxy(), then, provides an alternative.
 
-I have added this to mybinder. Click banner here.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xamevou/SatoshiSecretMessage/HEAD)
+I have added a Jupyter notebook that shows the results, sentence by
+sentence until the final result. Spoiler warning.
