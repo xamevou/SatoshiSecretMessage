@@ -13,5 +13,5 @@ RawProxy() instead of AuthServiceProxy(). That is quicker and does
 not need a password but it doesn't work now for some reason.
 AuthServiceProxy(), then, provides an alternative.
 
-I have added a Jupyter notebook that shows the results, sentence by
-sentence until the final result. Spoiler warning.
+I have added a Jupyter notebook that shows the execution, sentence by
+sentence, until the final result. Spoiler warning.
